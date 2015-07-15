@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, TestActivity!</string>
+    <string name="app_name">DRM应用</string>
+    
+    <!-- TabNewsActivity -->
+    <string name="subject">ImageViewPager</string>
+    <drawable name="bkcolor">#ffffff</drawable>
+</resources>
